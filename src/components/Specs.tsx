@@ -63,7 +63,7 @@ const Specs = () => {
               <div className="text-india-green mb-2 group-hover:scale-110 transition-transform">
                 <Radio className="w-8 h-8 lg:w-10 lg:h-10" />
               </div>
-              <div className="text-3xl lg:text-4xl font-bold text-white tracking-tighter">`1km</div>
+              <div className="text-3xl lg:text-4xl font-bold text-white tracking-tighter">~1km</div>
               <div className="text-[10px] font-bold text-white/50 uppercase tracking-widest mt-1">Radius</div>
             </motion.div>
           </div>
